@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 🔭 I’m currently working on building an A.I Model<br>- 🌱 I’m currently learning Python and C++<br>- 👯 I’m looking to collaborate on anything<br>- 💬 Ask me about Robotics and Mobile Development<br>- 📫 How to reach me: williamsamson036@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love designing robots and researching
+# 👋 Kayode Williams Olalere
+-📱 Full-Stack Mobile Dev | 🤖 Robotics/Automation | 🏗️ Systems Architecture<br>- 🛠️ I build: mobile products, automation prototypes, and scalable system foundations<br>- 🚀 I ship: real-world apps + research-grade prototypes for clients and teams<br>- 🎯 I focus on: execution, clean system design, and high-impact engineering outcomes<br>- 🌱 Learning: 🦀 Rust • 🧠 Machine Learning<br>- 📫 Reach me: williamsamson036@gmail.com
 
 
 # 💻 Tech Stack:
@@ -17,8 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WilliamSamson&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamSamson/WilliamSamson/output/github-snake-dark.svg" />
